@@ -10,7 +10,7 @@ https://drive.google.com/open?id=11tz9sjxPdwKhecjUsv7vconKEOFaDBNw
 2. Enable MacOS support by running win-install.cmd in Windows Command Prompt.
 3. Extract the RAR files and run the macOS*.vmx file in VMWare Worksattion Pro/Player.
 4. Tweak the VM according to your system needs. *(don't decrease the RAM to less than 4 GB, this can lead to poor performance.)
-5. Run and Enjoy.
+5. Run and Enjoy. (Default password is "password")
 
 --------------------------------------------------------------
 Minimum System Requirements
