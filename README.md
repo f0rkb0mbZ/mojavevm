@@ -22,7 +22,7 @@ Minimum System Requirements
 * 50 GB Hard Disk Space
 
 --------------------------------------------------------------
-Maximum System Requirements
+Recommended System Requirements
 --------------------------------------------------------------
 
 * Intel Core i5 or AMD Ryzen 3
